@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iSnake</string>
+
+    <!-- activity_game -->
+    <string name="best">BEST</string>
+    <string name="score">SCORE</string>
+    <string name="tap_to_continue">TAP TO CONTINUE</string>
+    <string name="tap_to_start">TAP TO START</string>
+    <string name="version">v</string>
+</resources>
